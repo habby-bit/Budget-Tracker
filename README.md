@@ -15,14 +15,17 @@ When entering transactions offline, they will be stored. Any withdrawals or depo
   
 ## Preview
 
-Below is an example image of the deployed app!
+Below are some example images of the app!
 
-<!-- ![Budget Still Example](public/images/BudgetStill.png) -->
+![Budget Still Example](public/images/BudgetStill.png)
+![Budget Still Example](public/images/BudgetTable.png)
+![Budget Still Example](public/images/BudgetGraph.png)
+
 
 ## App
 
 Here is a link to the deployed app on Heroku: 
-<!-- [Budget Tracker App](https://working-workouts.herokuapp.com/) -->
+[Budget Tracker App](https://boss-budgeting.herokuapp.com/)
 
 ## Questions?
 
